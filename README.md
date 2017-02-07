@@ -1,6 +1,8 @@
 # DontTouchMyScroll-Chrome
 Chrome extension to make every website have normal scrolling behavior. Stop messing with my scroll!
 
+[Download from Chrome web store](https://chrome.google.com/webstore/detail/dont-touch-my-scroll/agffceidadmikohochleakchamfdbpgi)
+
 # Why?
 
 Image this. You are browsing the web and you come up to a brand new website you have never been to before. You are greeted with this magnificent header image and some sexy typography. The webpage so far looks like a lot of fun to view.
